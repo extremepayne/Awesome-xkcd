@@ -16,7 +16,7 @@ A simple, curated list of implementations of various [xkcd](https://xkcd.com/) c
 * [#426 Geohashing](https://xkcd.com/426/)
   * [Geohashing wiki](http://wiki.xkcd.com/geohashing/Main_Page) - A wiki about xkcd's geohashing.
   * [Geohashing wikipedia page](https://en.wikipedia.org/wiki/Geohashing) - Wikipedia's page about geohashing.
-  * [geohasing.info](https://geohashing.info/) - Calculate geohashes for your location and date.
+  * [geohashing.info](https://geohashing.info/) - Calculate geohashes for your location and date.
   * [antigravity.py](https://github.com/python/cpython/commit/f8560170809a0befb729cc6667199c6aca8b1e98) - Geohashing implementation in the `antigravity` module, which is already a reference to \#353.
 * [#481 Listen to Yourself](https://xkcd.com/481/)
   * [Youtube Audio Preview](http://blag.xkcd.com/2008/10/08/youtube-audio-preview/) - While no longer available, this was essentially the implementation of xkcd #481.
